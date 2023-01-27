@@ -75,7 +75,7 @@
               accno = sc.nextInt();
               System.out.println("Enter the Phone Number : "); 
               phno = sc.nextInt();
-              System.out.println("Amount Successfully transfered!!! "); 
+              System.out.println("Kindly check your transfer!!  "); 
               System.out.println("");  
                         break;  
        
